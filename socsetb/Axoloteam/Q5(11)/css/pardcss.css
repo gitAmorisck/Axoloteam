@@ -1,0 +1,42 @@
+#fn{position:relative;background-color:black;min-height:100vh;color:#d5d5d5;}
+#opn{background-color:#010033;
+border: 3px solid #0b005a; /* задаём границу */ 
+margin: 0 auto;
+max-width:80%;
+height:400px;
+margin:0 auto;
+text-align:center;
+height: 70vh;
+}
+#xt{text-align:center;color:black;}
+#knopkapopka{
+position:relative;
+top:25px;
+min-width:150px;
+display:inline-block;
+font-family:arial,sans-serif;
+font-size:10px;
+color:rgb(205,216,228);
+text-shadow:0 -1px rgb(46,53,58);
+text-decoration:none;
+user-select:none;
+line-height:2em;
+width:66px;
+padding:1px 1.2em;
+outline:none;
+border:1px solid rgba(33,43,52,1);
+border-radius:2px;
+background:rgb(81,92,102) linear-gradient(rgb(81,92,102), rgb(69,78,87));
+box-shadow:inset 0 1px rgba(101,114,126,1), inset 0 0 1px rgba(140,150,170,.8), 0 1px rgb(83,94,104), 0 0 1px rgb(86,96,106);}
+#knopkapopka:active{box-shadow:inset 0 1px 3px rgba(0,10,20,.5), 0 1px rgb(83,94,104), 0 0 1px rgb(86,96,106);}
+#knopkapopka:focus:not(:active){border:1px solid rgb(22,32,43);
+border-bottom:1px solid rgb(25,34,45);
+background:rgb(53,61,71);
+box-shadow:inset 0 1px 3px rgba(0,10,20,.5), 0 1px rgb(83,94,104), 0 0 1px rgb(86,96,106);
+pointer-events:none;}
+#lft{text-align:left;}
+#zgl{top:5px;position:relativeid="";z-index:1;}
+#vv1{top:10px;position:relative;z-index:1;}
+#vv2{top:15px;position:relative;z-index:1;left:2px;}
+#tex{left:25px;width:200px;position:relative;top:45px;}
+input{width:300;}

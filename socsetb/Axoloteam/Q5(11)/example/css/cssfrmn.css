@@ -1,0 +1,48 @@
+#wrapper{background-color:#ff9545;background-repeat:repeat;text-align:center;height:100%;}
+*{margin:0;padding:0;}
+#menu{position:fixed;top:0;left:-30%;width:30%;height:100%;align:center;background-image:url(png/1.png);background-repeat:no-repeat;background-size: cover;}
+#down{text-align:center;background-color:#170d02;bottom:0;color:#919191;}
+#upline{width:100%;height:25px;background-color:#ff6845;position:fixed	;}
+#knopka{width:15%;height:10%;top:0;left:0%;}
+p{letter-spacing:-1px;}
+.mn{display:inline-block;
+font-family:arial,sans-serif;
+font-size:10px;
+color:rgb(205,216,228);
+text-shadow:0 -1px rgb(46,53,58);
+text-decoration:none;
+user-select:none;
+line-height:2em;
+width:66px;
+padding:1px 1.2em;
+outline:none;
+border:1px solid rgba(33,43,52,1);
+border-radius:2px;
+background:rgb(81,92,102) linear-gradient(rgb(81,92,102), rgb(69,78,87));
+box-shadow:inset 0 1px rgba(101,114,126,1), inset 0 0 1px rgba(140,150,170,.8), 0 1px rgb(83,94,104), 0 0 1px rgb(86,96,106);}
+.mn:active{box-shadow:inset 0 1px 3px rgba(0,10,20,.5), 0 1px rgb(83,94,104), 0 0 1px rgb(86,96,106);}
+.mn:focus:not(:active){border:1px solid rgb(22,32,43);
+border-bottom:1px solid rgb(25,34,45);
+background:rgb(53,61,71);
+box-shadow:inset 0 1px 3px rgba(0,10,20,.5), 0 1px rgb(83,94,104), 0 0 1px rgb(86,96,106);
+pointer-events:none;}
+#jmk{display:inline-block;
+font-family:arial,sans-serif;
+font-size:10px;
+color:rgb(205,216,228);
+text-shadow:0 -1px rgb(46,53,58);
+text-decoration:none;
+user-select:none;
+line-height:2em;
+padding:1px 1.2em;
+outline:none;
+border:1px solid rgba(33,43,52,1);
+border-radius:3px;
+background:rgb(81,92,102) linear-gradient(rgb(81,92,102), rgb(69,78,87));
+box-shadow:inset 0 1px rgba(101,114,126,1), inset 0 0 1px rgba(140,150,170,.8), 0 1px rgb(83,94,104), 0 0 1px rgb(86,96,106);}
+#jmk:active{box-shadow:inset 0 1px 3px rgba(0,10,20,.5), 0 1px rgb(83,94,104), 0 0 1px rgb(86,96,106);}
+#jmk:focus:not(:active){border:1px solid rgb(22,32,43);
+border-bottom:1px solid rgb(25,34,45);
+background:rgb(53,61,71);
+box-shadow:inset 0 1px 3px rgba(0,10,20,.5), 0 1px rgb(83,94,104), 0 0 1px rgb(86,96,106);
+pointer-events:none;}
